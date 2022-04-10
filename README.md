@@ -8,7 +8,9 @@ How we approach ?
     - Number of times our outer loop will run.
     
 2.) Identify for every row column
+
     a.) How many columns are there ?
+    
     b.) Types of element we have in our column.
 
 3.) What we need to print ?
